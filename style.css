@@ -1,0 +1,54 @@
+html {
+  background: url(images/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body {
+  width: 600px;
+  align-content: center;
+  text-align: center;
+  margin: 50px auto;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 30px;
+  border: solid 2px purple;
+  font-family: "Montserrat", sans-serif;
+}
+#Purple {
+  background-color: purple;
+  color: white;
+  align-content: center;
+  padding: 20px 70px;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+#btn1 {
+  font-size: 20px;
+  color: white;
+  background-color: green;
+  padding: 5px 15px;
+  border: solid 2px white;
+}
+a:hover {
+  color: yellow;
+  text-decoration: underline;
+}
+.image {
+  width: 50px;
+  padding-right: 8px;
+}
+hr {
+  width: 300px;
+  color: grey;
+}
+#image {
+  width: 400px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+#fyp {
+  font-style: italic;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+}
